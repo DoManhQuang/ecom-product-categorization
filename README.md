@@ -4,7 +4,10 @@ This includes 2 datasets using for heuristic problem
 ![Word Cloud](https://raw.githubusercontent.com/DoManhQuang/ecom-product-categorization/main/mepc_visualization/result/word_cloud/img.png)
 
 
-## Download MEPC-10 Dataset here:
+## Download MEPC Datasets here:
 ```bash
-pip install anaconda
+https://huggingface.co/datasets/sherlockvn/MEPC
 ```
+
+## Trainning
+We have used these two data sets to test CNN architectures with very good accuracy
