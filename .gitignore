@@ -1,0 +1,4 @@
+runs
+*.pt
+logs
+yolo*
